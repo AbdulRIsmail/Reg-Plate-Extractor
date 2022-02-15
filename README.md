@@ -1,4 +1,4 @@
-# 🚘 Reg-Plate-Extractor
+# 🚘 Reg Plate Extractor
 Extracts the reg plate from a car with image processing using the OpenCV / EasyOCR library.  
 Process on how it works can be found on my [google sites](https://sites.google.com/view/regplateextractor/home)
 <br>
